@@ -1,0 +1,80 @@
+[
+
+    {
+        "name": "MetaCPAN",
+        "description": "A search engine for finding CPAN modules.",
+        "repo": "https://github.com/CPAN-API/metacpan-web",
+        "url": "https://metacpan.org"
+    },
+
+    {
+        "name": "LWP",
+        "description": "A collection of clases for writing web applications.",
+        "repo": "https://github.com/libwww-perl/libwww-perl",
+        "url": "https://metacpan.org/pod/LWP"
+    },
+
+    {
+        "name": "Dancer 2",
+        "description": "A simple but powerful web framework.",
+        "repo": "https://github.com/PerlDancer/Dancer2",
+        "url": "http://perldancer.org"
+    },
+
+    {
+        "name": "Mojolicious",
+        "description": "A real-time web application framework.",
+        "repo": "https://github.com/kraih/mojo",
+        "url": "http://mojolicio.us"
+    },
+
+    {
+        "name": "Template Toolkit (TT2)",
+        "description": "A widely used and extensible templating system.",
+        "repo": "https://github.com/abw/Template2",
+        "url": "http://www.template-toolkit.org/"
+    },
+
+    {
+        "name": "Xslate",
+        "description": "Less widely used than TT2, but faster and more actively maintained.",
+        "repo": "https://github.com/xslate/p5-Text-Xslate",
+        "url": "https://metacpan.org/pod/Text::Xslate"
+    },
+
+    {
+        "name": "DBIx::Class",
+        "description": "The most widely-used Perl 5 object-relational mapper (ORM).",
+        "repo": "https://github.com/dbsrgits/DBIx-Class",
+        "url": "http://www.dbix-class.org/about.html"
+    },
+
+    {
+        "name": "Moose",
+        "description": "A powerful object system.",
+        "repo": "https://github.com/moose/Moose",
+        "url": "https://metacpan.org/pod/Moose"
+    },
+
+    {
+        "name": "Moo",
+        "description": "A lightweight version of Moose.",
+        "repo": "https://github.com/moose/Moo",
+        "url": "https://metacpan.org/pod/Moo"
+    },
+
+    {
+        "name": "Dist::Zilla",
+        "description": "A toolkit for writing and releasing CPAN distributions.",
+        "repo": "https://github.com/rjbs/Dist-Zilla",
+        "url": "http://dzil.org"
+    },
+
+    {
+        "name": "MetaCPAN API",
+        "description": "The API behind MetaCPAN, which you can use too!",
+        "repo": "https://github.com/CPAN-API/cpan-api",
+        "url": "https://github.com/CPAN-API/cpan-api/blob/master/docs/API-docs.md"
+    }
+
+]

@@ -1,0 +1,10 @@
+#!/usr/local/bin/perl
+use strict;
+use warnings;
+use Template;
+use File::Slurper   qw/ read_text   /;
+use JSON            qw/ decode_json /;
+
+my $template = Template->new();
+my $repolist = decode_json(read_text($ARGV[0]));
+$template->process('index.html.tt', { repositories => $repolist });
