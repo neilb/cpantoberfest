@@ -75,6 +75,13 @@
         "description": "The API behind MetaCPAN, which you can use too!",
         "repo": "https://github.com/CPAN-API/cpan-api",
         "url": "https://github.com/CPAN-API/cpan-api/blob/master/docs/API-docs.md"
+    },
+
+    {
+        "name": "(R)?ex",
+        "description": "Deployment & Configuration Management.",
+        "repo": "https://github.com/RexOps/Rex",
+        "url": "http://www.rexify.org"
     }
 
 ]
