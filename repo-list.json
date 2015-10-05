@@ -96,7 +96,15 @@
         "description": "A tool like grep, optimized for programmers.",
         "repo": "https://github.com/petdance/ack2",
         "url": "http://beyondgrep.com"
+    },
+
+    {
+        "name": "DuckDuckGo",
+        "description": "Search engine written in Perl.",
+        "repo": "https://github.com/duckduckgo",
+        "url": "http://duckduckhack.com"
     }
+
 
 
 
