@@ -26,6 +26,10 @@ div.distribution a h1 {
     color: #f60;
 }
 
+div.distribution a:hover {
+    color: #f60;
+}
+
 h1 {
     text-align: center;
     margin: 0;
