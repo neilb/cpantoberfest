@@ -103,8 +103,14 @@
         "description": "Search engine written in Perl.",
         "repo": "https://github.com/duckduckgo",
         "url": "http://duckduckhack.com"
-    }
+    },
 
+    {
+        "name": "PerlPowerTools",
+        "description": "BSD utilities written in pure Perl.",
+        "repo": "https://github.com/briandfoy/PerlPowerTools",
+        "url": "https://metacpan.org/pod/PerlPowerTools"
+    }
 
 
 
