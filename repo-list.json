@@ -82,6 +82,14 @@
         "description": "Deployment & Configuration Management.",
         "repo": "https://github.com/RexOps/Rex",
         "url": "http://www.rexify.org"
+    },
+
+    {
+        "name": "WebGUI 8",
+        "description": "The next major revision of WebGUI CMS.",
+        "repo": "https://github.com/AlliumCepa/webgui",
+        "url": "http://alliumcepa.github.io"
     }
+
 
 ]
