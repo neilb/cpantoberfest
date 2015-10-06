@@ -29,6 +29,13 @@
     },
 
     {
+        "name": "Catalyst",
+        "description": "The Elegant MVC Web Application Framework",
+        "repo": "https://github.com/perl-catalyst/catalyst-runtime",
+        "url": "http://www.catalystframework.org/"
+    },
+
+    {
         "name": "Template Toolkit (TT2)",
         "description": "A widely used and extensible templating system.",
         "repo": "https://github.com/abw/Template2",
@@ -110,12 +117,6 @@
         "description": "Perl wrapper around librabbitmq to interact with RabbitMQ over AMQP",
         "repo": "https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq",
         "url": "https://metacpan.org/pod/Net::AMQP::RabbitMQ"
-    },
-
-    {
-        "name": "Catalyst",
-        "description": "The Elegant MVC Web Application Framework",
-        "repo": "https://github.com/perl-catalyst/catalyst-runtime",
-        "url": "http://www.catalystframework.org/"
     }
+
 ]
