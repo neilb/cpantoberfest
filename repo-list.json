@@ -103,8 +103,12 @@
         "description": "BSD utilities written in pure Perl.",
         "repo": "https://github.com/briandfoy/PerlPowerTools",
         "url": "https://metacpan.org/pod/PerlPowerTools"
+    },
+
+    {
+        "name": "Net::AMQP::RabbitMQ",
+        "description": "Perl wrapper around librabbitmq to interact with RabbitMQ over AMQP",
+        "repo": "https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq",
+        "url": "https://metacpan.org/pod/Net::AMQP::RabbitMQ"
     }
-
-
-
 ]
