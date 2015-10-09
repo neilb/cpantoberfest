@@ -117,6 +117,13 @@
         "description": "Perl wrapper around librabbitmq to interact with RabbitMQ over AMQP",
         "repo": "https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq",
         "url": "https://metacpan.org/pod/Net::AMQP::RabbitMQ"
+    },
+
+    {
+        "name": "Thruk",
+        "description": "Monitoring webinterface for Nagios (Naemon).",
+        "repo": "https://github.com/sni/Thruk",
+        "url": "http://thruk.org/"
     }
 
 ]
