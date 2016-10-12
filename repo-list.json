@@ -126,4 +126,10 @@
         "url": "http://thruk.org/"
     }
 
+    ,{
+        "name": "DebugHooks",
+        "description": "Hooks into perl debugger",
+        "repo": "https://github.com/KES777/Devel-DebugHooks",
+        "url": "https://github.com/KES777/Devel-DebugHooks"
+    }
 ]
