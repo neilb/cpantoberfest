@@ -124,6 +124,13 @@
         "description": "Monitoring webinterface for Nagios (Naemon).",
         "repo": "https://github.com/sni/Thruk",
         "url": "http://thruk.org/"
+    },
+
+    {
+        "name": "Math::GSL",
+        "description": "Perl interface to the GNU Scientific Library",
+        "repo": "https://github.com/leto/math--gsl",
+        "url": "https://metacpan.org/pod/Math::GSL"
     }
 
 ]
