@@ -133,4 +133,10 @@
         "url": "https://metacpan.org/pod/Math::GSL"
     }
 
+    ,{
+        "name": "DebugHooks",
+        "description": "Hooks into perl debugger",
+        "repo": "https://github.com/KES777/Devel-DebugHooks",
+        "url": "https://github.com/KES777/Devel-DebugHooks"
+    }
 ]
