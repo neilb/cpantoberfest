@@ -21,10 +21,10 @@ Send me pull requests to add more projects!
 
 [% FOREACH package IN repositories %]
 <div class="distribution">
-    <a href="[% package.url %]"><h1>[% package.name %]</h1></a>
-    <p>[% package.description %]</p>
-    <a class="repo" href="[% package.repo %]">repo</a>
-    <a class="url" href="[% package.url %]">home</a>
+    <a href="[% package.url | html %]"><h1>[% package.name | html %]</h1></a>
+    <p>[% package.description | html %]</p>
+    <a class="repo" href="[% package.repo | html %]">repo</a>
+    <a class="url" href="[% package.url | html %]">home</a>
 </div>
 [% END %]
 
