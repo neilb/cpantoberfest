@@ -3,7 +3,7 @@
 <head>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <title>CPANtoberfest: CPAN distributions to hack on for Hacktoberfest</title>
-    <link rel='stylesheet' href='cpantoberfest.css' type='text/css'
+    <link rel='stylesheet' href='cpantoberfest.css' type='text/css'>
 </head>
 <body>
     <h1>CPANtoberfest</h1>
@@ -21,7 +21,7 @@ Send me pull requests to add more projects!
 
 [% FOREACH package IN repositories %]
 <div class="distribution">
-    <a href="[% package.url | html %]"><h1>[% package.name | html %]</h1></a>
+    <h1><a href="[% package.url | html %]">[% package.name | html %]</a></h1>
     <p>[% package.description | html %]</p>
     <a class="repo" href="[% package.repo | html %]">repo</a>
     <a class="url" href="[% package.url | html %]">home</a>
