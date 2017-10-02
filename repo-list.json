@@ -3,7 +3,7 @@
     {
         "name": "MetaCPAN",
         "description": "A search engine for finding CPAN modules.",
-        "repo": "https://github.com/CPAN-API/metacpan-web",
+        "repo": "https://github.com/metacpan/metacpan-web",
         "url": "https://metacpan.org"
     },
 
@@ -80,8 +80,8 @@
     {
         "name": "MetaCPAN API",
         "description": "The API behind MetaCPAN, which you can use too!",
-        "repo": "https://github.com/CPAN-API/cpan-api",
-        "url": "https://github.com/CPAN-API/cpan-api/blob/master/docs/API-docs.md"
+        "repo": "https://github.com/metacpan/metacpan-api",
+        "url": "https://github.com/metacpan/metacpan-api/blob/master/docs/API-docs.md"
     },
 
     {
