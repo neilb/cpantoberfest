@@ -139,4 +139,11 @@
         "repo": "https://github.com/KES777/Devel-DebugHooks",
         "url": "https://github.com/KES777/Devel-DebugHooks"
     }
+    ,{
+        "name": "CPAN Testers API",
+        "description": "An API for CPAN Testers reports and CPAN uploads",
+        "repo": "https://github.com/cpan-testers/cpantesters-api",
+        "url": "https://github.com/cpan-testers/cpantesters-api"
+    }
+
 ]
