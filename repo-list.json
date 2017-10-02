@@ -95,7 +95,7 @@
         "name": "ack",
         "description": "A tool like grep, optimized for programmers.",
         "repo": "https://github.com/petdance/ack2",
-        "url": "http://beyondgrep.com"
+        "url": "https://beyondgrep.com"
     },
 
     {
